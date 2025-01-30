@@ -15,7 +15,6 @@ Ce dépôt regroupe tous mes plugins Minecraft :
 + Hikabrain à finir
 + Hikabrain 4*2 !!
 + FREECUBE, avec peut-être possibilité de faire des mini-jeux interne au freecube, style housing (hypixel) ou autre
-+ 
 
 ### Idée
 + Rush MDT ou CTF avec systèmes de boss pour donner des avantages (style League of legends)
