@@ -9,8 +9,6 @@ Ce dépôt regroupe tous mes plugins Minecraft :
 - [SuperAPI](https://github.com/samyeuh/superapi) : Projet qui permet le transfert de données entre plusieurs plugins
 - [SuperHikabrain](https://github.com/samyeuh/superhikabrain) : Plugin qui regroupe les fonctionnalités relatives au mini-jeu Hikabrain
 
-==============================================
-
 # TODO
 
 ### A faire
