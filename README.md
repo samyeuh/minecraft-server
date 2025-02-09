@@ -22,4 +22,5 @@ Ce dépôt regroupe tous mes plugins Minecraft :
 + Rush ARAM
 + Tycoon
 + Evenement style Dofus (farm pendant qq jours/semaines)
++ Système de récompense / malus pour bon et mauvais joueurs (comme les honor sur LoL)
 
