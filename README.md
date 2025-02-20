@@ -25,7 +25,7 @@ Ce dépôt regroupe tous mes plugins Minecraft :
 + Système de récompense / malus pour bon et mauvais joueurs (comme les honor sur LoL)
 
 # Architecture
-
+```
                 BungeeCord (Proxy Principal)
                          │
            ┌─────────────┴─────────────┐
@@ -39,5 +39,5 @@ Ce dépôt regroupe tous mes plugins Minecraft :
                            │
         ┌──────────────────┴──────────────────┐
     MongoDB (Données persistantes)     Redis (Temps réel)
-
+```
 
