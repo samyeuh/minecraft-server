@@ -24,3 +24,20 @@ Ce dépôt regroupe tous mes plugins Minecraft :
 + Evenement style Dofus (farm pendant qq jours/semaines)
 + Système de récompense / malus pour bon et mauvais joueurs (comme les honor sur LoL)
 
+# Architecture
+
+                BungeeCord (Proxy Principal)
+                         │
+           ┌─────────────┴─────────────┐
+         HUB                       Hikabrain
+ (SuperHubPlugin + Redis)        (SuperHikabrainPlugin + Redis)
+           │                         │
+           └───────────────┬─────────┘
+                           │
+                    SuperServeurPlugin
+               (Gestion amis, rangs, stats, etc.)
+                           │
+        ┌──────────────────┴──────────────────┐
+    MongoDB (Données persistantes)     Redis (Temps réel)
+
+
